@@ -1,4 +1,4 @@
-# Mathematical finance
+# financial-bayes
 
 Repo for everything finance-related. 
 
